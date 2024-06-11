@@ -1,6 +1,6 @@
 // CODE ALONG
 // 1. Create a variable called `painting1` that stores the html element with the class `painting-1` using querySelector.
-
+let painting1 = document.querySelector(".painting1");
 
 
 // CODE SOLO
